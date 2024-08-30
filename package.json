@@ -1,0 +1,16 @@
+{
+  "name": "examples-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@tsconfig/recommended": "^1.0.7",
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
